@@ -260,8 +260,8 @@ function create_config( )
     "webshot",
     "voice",
     },
-    sudo_users = {179071599},--Sudo users
-    moderation = {data = 'data/moderation.json'},
+    sudo_user ={131232407},--Sudo users
+    moderation ={data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
     help_text = [[ ]],
@@ -519,3 +519,4 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
+G
