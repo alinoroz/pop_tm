@@ -1,4 +1,4 @@
-# Pop-™
+# Pop™
 
 [![https://yago.me/tg-bot](https://img.shields.io/badge/💬_Telegram-pop-tm-blue.svg)](https://telegram.me/pop_Channel)
 
