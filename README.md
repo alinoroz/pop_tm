@@ -1,8 +1,8 @@
-# Avirabot
+# pop-tm
 
-[![https://yago.me/tg-bot](https://img.shields.io/badge/💬_Telegram-Avirabot-blue.svg)](https://telegram.me/avirabot)
+[![https://yago.me/tg-bot](https://img.shields.io/badge/💬_Telegram-pop-tm-blue.svg)](https://telegram.me/pop_Channel)
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
+**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/alinoroz/pop_tm/blob/master/LICENSE)**.
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**
@@ -26,14 +26,14 @@
 * * *
 
 ## Commands
-Avirabot has several commands that are only usable at certain ranks.
+pop_tm has several commands that are only usable at certain ranks.
 
 
 ## General Commands {#general_commands}
 | Command | Description |
 |:--------|:------------|
 | [#!/]id | Returns group/SuperGroup ID or user id in pm. |
-| [#!/]avira | Returns bot information. |
+| [#!/]pop | Returns bot information. |
 
 
 ## Private Message Commands {#privmsg_commands}
@@ -207,8 +207,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git -b supergroups
-cd TeleSeed
+git clone https://github.com/alinoroz/pop_tm.git
+cd pop_tm
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
