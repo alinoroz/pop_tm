@@ -228,6 +228,7 @@ function create_config( )
     "echo",
     "echo+",
     "echo+1",
+    "time2",
     "wiki",
     "joke",
     "google",
