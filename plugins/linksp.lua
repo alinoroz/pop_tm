@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
     local data = load_data(_config.moderation.data)
-      local group_link = data[tostring(1027493813)]['settings']['set_link']
+      local group_link = data[tostring(1069915319)]['settings']['set_link']
        if not group_link then
       return ''
        end
@@ -12,7 +12,7 @@ end
 
 return {
   patterns = {
-    "^[/#!]([Ss]upportlink)$"
+    "^[/#!]([Ll]linksp)$"
   },
   run = run
 }
